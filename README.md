@@ -1,2 +1,3 @@
-# Delta-Tablet-SignUp-Python
- Worked with Delta Business Solutions to create a program for their signup page.
+# Delta Tablet Sign Up Python
+
+Worked with Delta Business Solutions to create a program for their signup page. This was later redeveloped to connect with their backend, and after that had to be disclosed. But the base code that was written entirely on my end is shown here. A user can create or delete an account. Usually this would be used on a tablet by the front desk. In this example it writes to a word file, but when my project was approved we used API calls to send requests to their server, increasing the scalability of the product.
